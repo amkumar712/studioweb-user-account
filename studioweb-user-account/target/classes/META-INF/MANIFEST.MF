@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: studioweb-login-signup
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: MXA86SG
+Implementation-Vendor-Id: com.studioweb.application
+Build-Jdk: 1.8.0_45
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/studioweb-login-signup
+Created-By: Maven Integration for Eclipse
+
